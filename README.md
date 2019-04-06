@@ -1,2 +1,2 @@
 # Runestone
-How to think like a computer scientist
+How to Think Like a Computer Scientist
