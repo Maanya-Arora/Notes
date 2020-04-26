@@ -1,0 +1,55 @@
+Exploring the difference between STRINGS, INTEGERS, AND FLOATS:
+
+Every value has a type.
+-built-in function type can find the type of a value-
+
+
+WHAT ARE STRINGS?
+strings are characters written in quotes (quotes aren't printed), similar to a sentance.
+subtraction and division can not be used on strings, but addition and multiplication can. 
+
+ex:
+add = "a" + "" + "b"
+print(add)
+a b
+
+multiply = "2" * 3
+print(mulitply)
+222
+
+if you try to use subtraction, you will encounter a syntax error: 
+TypeError: unsupported operand type(s) for -: 'str' and 'str'
+
+with strings, using len function, you can count # of characters in the string, unlike with integers or floats
+-cannot add numbers and strings
+-must convert to same type. 
+
+
+WHAT ARE INTEGERS?
+integers are negative or positive whole numbers, like 3 or -321.
+
+
+Integers and floating-point numbers can be mixed in arithmetic.
+Python 3 automatically converts integers to floats as needed.
+
+
+WHAT ARE FLOATS?
+floats represent real number values such as 3.14159 or -2.85204.
+
+float() can convert a string to a floating point number, and int() will convert a floating point number to an integer
+
+HOW ARE THEY STORED?
+integers are typically internally stored using binary
+
+floats are stored using a specific binary format that allows more precise arthemetic operations that can be handled by the computer hardware itself
+
+strings are stored internally as a Unicode sequence known as codec.
+they are a sequence of bytes where each character might be one, two, three or four bytes
+Unicode is "is a specification that aims to list every character used by human languages and give each character its own unique code."
+^according to the python docs^ 
+
+
+
+
+
+
