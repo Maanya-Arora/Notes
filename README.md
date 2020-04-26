@@ -1,2 +1,2 @@
-# Runestone
-How to Think Like a Computer Scientist
+# NOTES
+notes exploring different aspects of computer programming
