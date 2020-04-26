@@ -3,7 +3,6 @@ Exploring the difference between STRINGS, INTEGERS, AND FLOATS:
 Every value has a type.
 -built-in function type can find the type of a value-
 
-
 WHAT ARE STRINGS?
 strings are characters written in quotes (quotes aren't printed), similar to a sentance.
 subtraction and division can not be used on strings, but addition and multiplication can. 
