@@ -1,0 +1,6 @@
+git clone -- copies a repo to a new location 
+git add -- adds a change to working directory, but doesnt affect repo until you run git commit
+git commit -m -- saves your changes to the repository
+git mv -- it moves a file
+git rm -- removes a file from the git repository
+git config --global user.email "you@example.com" -- sets git configuration values on global/local project levels  
