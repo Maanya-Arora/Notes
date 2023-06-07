@@ -1,2 +1,2 @@
-# NOTES
-notes exploring different aspects of computer programming
+# Notes
+Notes exploring different aspects of computer science
